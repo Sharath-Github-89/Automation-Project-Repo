@@ -7,4 +7,4 @@ print( " Sharath Kumar")
 
 print(" Python Project")
 
-print( " new line added")
+print( " New line added")
